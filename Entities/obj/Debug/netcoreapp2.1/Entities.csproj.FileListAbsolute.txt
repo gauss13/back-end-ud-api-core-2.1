@@ -1,0 +1,11 @@
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\bin\Debug\netcoreapp2.1\Entities.runtimeconfig.json
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\bin\Debug\netcoreapp2.1\Entities.runtimeconfig.dev.json
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Edwin\source\repos\ApiCoreAngular\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
